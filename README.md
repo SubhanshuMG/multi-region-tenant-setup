@@ -1,7 +1,7 @@
 
 # Multi-Region, Multi-Tenant Infrastructure Setup
 
-This repository provides a secure, scalable, and automated multi-region infrastructure setup for a React frontend, Node.js backend, PostgreSQL database, and message queues. The setup ensures GDPR/CCPA compliance by deploying region-specific resources and isolating data.
+This is a sample repository that provides a secure, scalable, and automated multi-region infrastructure setup for a React frontend, Node.js backend, PostgreSQL database, and message queues. The setup also ensures GDPR/CCPA compliance by deploying region-specific resources and isolating data.
 
 ---
 
