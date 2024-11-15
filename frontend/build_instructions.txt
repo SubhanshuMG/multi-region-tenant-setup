@@ -1,0 +1,15 @@
+
+Run the following commands to build the React frontend:
+
+1. Install dependencies:
+   ```
+   npm install
+   ```
+
+2. Build the production app:
+   ```
+   npm run build
+   ```
+
+3. Deploy the `build/` folder to your S3 bucket or CDN.
+        
